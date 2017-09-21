@@ -1,0 +1,15 @@
+
+table {
+    border: 1px solid black;
+    width: 60%;
+}
+
+#ligne1{
+    font-size: 24px;
+}
+
+td{
+    text-align: center;
+    border: 1px solid black;
+    width: 20%; 
+}
