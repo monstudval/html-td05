@@ -1,4 +1,4 @@
-
+/*Exrecice 2*/
 table {
     border: 1px solid black;
     width: 60%;
@@ -12,4 +12,28 @@ td{
     text-align: center;
     border: 1px solid black;
     width: 20%; 
+}
+
+
+/*Exrecice 3*/
+#menu1{
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+}
+
+#menu1 li{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+#menu1 li a:hover{
+    background-color: yellow;
+}
+
+#menu1 li a{
+    padding: 5px 15px 5px 15px;
+    border: 1px dotted black;
+    border-radius: 10px;
 }
