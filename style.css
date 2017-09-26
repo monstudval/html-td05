@@ -37,3 +37,15 @@ td{
     border: 1px dotted black;
     border-radius: 10px;
 }
+
+/*Exercice 4*/
+#tableau2{
+    border: 6px dashed black;
+    width: 20%;
+    text-align: left;
+}
+
+#tableau2 td{
+    border: 2px solid red;
+}
+
