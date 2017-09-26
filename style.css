@@ -38,6 +38,17 @@ td{
     border-radius: 10px;
 }
 
+/*Exercice 4*/
+#tableau2{
+    border: 6px dashed black;
+    width: 20%;
+    text-align: left;
+}
+
+#tableau2 td{
+    border: 2px solid red;
+}
+
 /*Exercice 5*/
 body{
     background-image: url('blue-sky.jpg');
@@ -51,14 +62,4 @@ img{
     width: 25%;
 }
 
-/*Exercice 4*/
-#tableau2{
-    border: 6px dashed black;
-    width: 20%;
-    text-align: left;
-}
-
-#tableau2 td{
-    border: 2px solid red;
-}
 
